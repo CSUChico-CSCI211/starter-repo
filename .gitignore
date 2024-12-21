@@ -9,6 +9,7 @@
 
 # Unignore Makefile and testing scripts
 !Makefile
+!makefile
 !bin/run_tests
 !bin/vd
 !bin/vde
